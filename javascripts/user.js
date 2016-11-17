@@ -1,8 +1,8 @@
-"use strict";
-let firebase = require("./firebaseConfig");
+// "use strict";
+// let firebase = require("./firebaseConfig");
 
-function logInGoogle() {
+// function logInGoogle() {
 
-}
+// }
 
-module.exports = logInGoogle;
+// module.exports = logInGoogle;

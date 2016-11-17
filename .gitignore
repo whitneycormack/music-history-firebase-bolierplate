@@ -1,6 +1,5 @@
-node_modules
-.sass-cache
+lib/.sass-cache
 .DS_Store
-.sublime-gulp.cache
-dist/bundle.js
+dist/
 css/
+lib/node_modules

@@ -16,6 +16,7 @@ function getSongs(callback) {
 function addSong(songFormObj) {
 
 }
+// POST - Submits data to be processed to a specified resource. Takes one parameter.
 
 function deleteSong(songId) {
 
@@ -25,6 +26,8 @@ function getSong(songId) {
 
 }
 
+// GET - Requests/read data from a specified resource
+// PUT - Update data to a specified resource. Takes two parameters.
 function editSong(songFormObj, songId) {
 
 }
